@@ -6938,5 +6938,5 @@ export const iso_639_2 = {
       "zazaki"
     ],
     "wikiUrl": "https://en.wikipedia.org/wiki/Zaza_language"
-  };
-}
+  }
+};
